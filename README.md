@@ -80,9 +80,9 @@ Sound Detector - Using Integrated Circuits, LEDs, Resistors, Capacitors, &amp; a
 <h2>Schematic &amp; PCB Diagrams</h2>
 
 <img src = "https://1.bp.blogspot.com/-X0DkRhmX4zU/V7OCZx9SCjI/AAAAAAAAAlI/KjrMSHMMEloF22l9-3-m44h4SrZhQEfRgCEw/s1600/Schematic.png" />
-
-<p>The main idea of the sound detecteor circuit came from: <a href = "http://www.eleccircuit.com/sound-detector-using-lm324/">Sound Detector</a></p><br>
-<p>I added Teensy functionality to calculate the decibels of the sound being detected and turn on the appropriate LED(s).</p><br>
+<br>
+<img src = "https://1.bp.blogspot.com/-Ly4pAsbIRB0/V7OCZygP1yI/AAAAAAAAAlM/4zsHXcPzZMguTHMVeVIIF2KTH0OkZ2IbgCEw/s400/PCB.png"/>
+<p>The main idea of the sound detecteor circuit came from: <a href = "http://www.eleccircuit.com/sound-detector-using-lm324/">Sound Detector</a></p>
+<p>I added Teensy functionality to calculate the decibels of the sound being detected and turn on the appropriate LED(s).</p>
 <p>(Update) - After careful analysis, I discovered that the diode is not needed in order for the circuit to function.</p>
 <br />
-<img src = "https://1.bp.blogspot.com/-Ly4pAsbIRB0/V7OCZygP1yI/AAAAAAAAAlM/4zsHXcPzZMguTHMVeVIIF2KTH0OkZ2IbgCEw/s400/PCB.png"/>
