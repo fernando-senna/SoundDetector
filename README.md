@@ -9,7 +9,7 @@ Sound Detector - Using Integrated Circuits, LEDs, Resistors, Capacitors, &amp; a
 <h2>Low-Level Description</h2>
 
 <h2>Parts List</h2>
-<table border = "1" align = "center">
+<table align="center">
 	<tr>
 		<th>Quantity</th>
 		<th>Part Name</th>
